@@ -8,6 +8,7 @@ public class test {
 		
 		test t = new test();
 		t.testMethod();
+		
 	}
 	
 	public void testMethod()
