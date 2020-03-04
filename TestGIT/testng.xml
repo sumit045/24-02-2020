@@ -2,7 +2,7 @@
 <suite name = "Owntestngxml">
 <test name = "Jenkins/GIT">
 <classes>
-<class name = "test" />
+<class name = "sumitFolder.test" />
 </classes>
 </test>
 </suite>
