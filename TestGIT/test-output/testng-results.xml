@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Owntestngxml" duration-ms="32875" started-at="2020-03-05T05:26:15Z" finished-at="2020-03-05T05:26:48Z">
+  <suite name="Owntestngxml" duration-ms="23975" started-at="2020-03-05T10:56:54Z" finished-at="2020-03-05T10:57:18Z">
     <groups>
     </groups>
-    <test name="Jenkins/GIT" duration-ms="32875" started-at="2020-03-05T05:26:15Z" finished-at="2020-03-05T05:26:48Z">
+    <test name="Jenkins/GIT" duration-ms="23975" started-at="2020-03-05T10:56:54Z" finished-at="2020-03-05T10:57:18Z">
       <class name="test">
-        <test-method status="PASS" signature="testing()[pri:0, instance:test@55f3ddb1]" name="testing" duration-ms="32820" started-at="2020-03-05T05:26:15Z" finished-at="2020-03-05T05:26:48Z">
+        <test-method status="PASS" signature="testing()[pri:0, instance:test@55f3ddb1]" name="testing" duration-ms="23918" started-at="2020-03-05T10:56:54Z" finished-at="2020-03-05T10:57:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testing -->
